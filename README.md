@@ -13,4 +13,4 @@ Infine, creiamo un nuovo array i cui elementi contengono solo nomi e falli subit
 Buon lavoro!
 
 
-Invia un messaggio in #wd-147-comunicazioni
+
