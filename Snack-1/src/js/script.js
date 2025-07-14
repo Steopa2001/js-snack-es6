@@ -10,8 +10,6 @@ let bici = [
 //Parto assumendo che la prima sia la più leggera
 let biciLeggera = bici[0];
 
-//dichiaro una variabile che conterrà la bici con peso minore.
-const pesoMinore = [];
 
 //ciclo l'array 
 for (let i = 0; i < bici.length; i++) {
@@ -19,7 +17,6 @@ for (let i = 0; i < bici.length; i++) {
     //controllo quale bici pesa di meno.
     if (bici[i].peso < biciLeggera.peso ) {
         biciLeggera = bici[i];
-        bici.push(pesoMinore);
     }
 }
 
