@@ -24,3 +24,5 @@ for (let i = 0; i < bici.length; i++) {
 }
 
 
+// 3. Stampo risultato
+console.log(`La bici più leggera è la ${biciLeggera.nome} con un peso di ${biciLeggera.peso} kg.`);
